@@ -4,3 +4,4 @@ Introductory course related to machine learning 🦾
 - Lab1: introduction
 - Lab2: classification
 - Lab3: regression analysis
+- Lab4: SVM
