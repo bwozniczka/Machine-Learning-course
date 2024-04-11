@@ -1,7 +1,8 @@
 # MachineLearning Course
 Introductory course related to machine learning 🦾
 ## Description:
-- Lab1: introduction
-- Lab2: classification
-- Lab3: regression analysis
+- Lab1: Introduction
+- Lab2: Classification
+- Lab3: Regression analysis
 - Lab4: SVM
+- Lab5: Decision tree
