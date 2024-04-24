@@ -7,3 +7,4 @@ Introductory course related to machine learning 🦾
 - Lab4: SVM
 - Lab5: Decision tree
 - Lab6: Ensemble learning
+- Lab7: Clusterization
