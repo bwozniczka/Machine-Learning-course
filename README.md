@@ -8,3 +8,4 @@ Introductory course related to machine learning 🦾
 - Lab5: Decision tree
 - Lab6: Ensemble learning
 - Lab7: Clusterization
+- Lab8: Dimensionality reduction
