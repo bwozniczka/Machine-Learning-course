@@ -9,3 +9,5 @@ Introductory course related to machine learning 🦾
 - Lab6: Ensemble learning
 - Lab7: Clusterization
 - Lab8: Dimensionality reduction
+- Lab9: Classification and regression in Keras
+- Lab10: Hypermarameter tuning
