@@ -11,3 +11,4 @@ Introductory course related to machine learning 🦾
 - Lab8: Dimensionality reduction
 - Lab9: Classification and regression in Keras
 - Lab10: Hypermarameter tuning
+- Lab11: Image analysis using convolutional networks
